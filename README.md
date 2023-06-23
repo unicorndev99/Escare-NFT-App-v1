@@ -1,5 +1,10 @@
 # Escare-NFT-App
-React Native App for Email Verification, Pin Code, Wallet Connect, Qr Scan &amp; generator, fcm
+React Native App for Email Verification, Pin Code, Wallet Connect, Qr Scan &amp; generator, Fcm
+
+
+https://github.com/unicorndev99/Escare-NFT-App-v1/assets/118916301/670b8104-8215-48b1-ad62-09d0f9675843
+
+
 ![HomePage](https://github.com/unicorndev99/Escare-NFT-App/assets/118916301/b37505ab-a57a-4381-b9fb-e6c66ea9308c)
 ![InputCodefromEmail](https://github.com/unicorndev99/Escare-NFT-App/assets/118916301/eb8df7ae-d376-4be2-884f-c15844e4e887)
 ![MyInfoPage(don't worry email)](https://github.com/unicorndev99/Escare-NFT-App/assets/118916301/20e429f9-c729-43e9-9a8f-6d99a929af44)
