@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-confirmation-code-input/components/ConfirmationCodeInput.js b/node_modules/react-native-confirmation-code-input/components/ConfirmationCodeInput.js
+index 239c85a..b680bde 100644
+--- a/node_modules/react-native-confirmation-code-input/components/ConfirmationCodeInput.js
++++ b/node_modules/react-native-confirmation-code-input/components/ConfirmationCodeInput.js
+@@ -19,7 +19,7 @@ export default class ConfirmationCodeInput extends Component {
+     inactiveColor: PropTypes.string,
+     ignoreCase: PropTypes.bool,
+     autoFocus: PropTypes.bool,
+-    codeInputStyle: TextInput.propTypes.style,
++    // codeInputStyle: TextInput.propTypes.style,
+     containerStyle: viewPropTypes.style,
+     onFulfill: PropTypes.func,
+   };
